@@ -1,0 +1,3 @@
+This is like a basic project to build a simple LLM Application with LCEL. It will translate text from English to Another Language. It's just a single LLM call plus some prompting but also a great way to get started with LangChain.
+
+Here we use MistralAI Chat Model. We use the latest model which is the flagship model with state-of-the-art reasoning, knowledge, and coding capabilities. It's ideal for complex tasks that require large reasoning capabilities or are highly specialized (Synthetic Text Generation, Code Generation, RAG, or Agents).
